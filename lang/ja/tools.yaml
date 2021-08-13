@@ -1,0 +1,5 @@
+---
+sub: Bitcoin Cash用の便利なツール
+conversion: アドレス変換ツール
+broadcast: トランザクションブロードキャスター
+broadcast-sub: 生のトランザクションをネットワークにブロードキャストする
