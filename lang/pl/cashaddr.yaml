@@ -1,0 +1,13 @@
+---
+title: Adres Cash - Narzędzie do konwersji adresów ze starego formatu
+sub: Narzędzie konwersji adresów
+convert: Konwertuj
+not-valid: To nie jest poprawny adres
+paste: Wklej adres
+is-not-valid: nie jest poprawnym adresem
+cashaddr:
+  title: Adres Cash
+  sub: Nowy, bezpieczniejszy format - nie do pomylenia z bitcoinem (BTC) albo innymi kryptowalutami
+legacy:
+  title: Stary adres
+  sub: Nie wysyłaj na ten adres nic innego niż Bitcoin Cash (BCH) ponieważ grozi to utratą funduszy

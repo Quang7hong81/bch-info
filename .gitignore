@@ -1,0 +1,14 @@
+# Local env
+.DS_Store
+**/*.swp
+**/*.swap
+
+# NodeJS
+node_modules
+package-lock.json
+
+# Auto generated files
+dist/
+dist-lang/
+app/static/css/style.css
+README.html
