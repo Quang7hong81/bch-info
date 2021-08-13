@@ -1,0 +1,75 @@
+@import "variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "typography";
+@import "buttons";
+@import "card";
+@import "navbar";
+
+
+// Hero header
+
+.hero {
+  background-image: url("/static/img/hero.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  height: 800px;
+
+  &-alt {
+    background: linear-gradient(120deg,
+      rgba(0,0,0,1) 000000%, rgba(34,53,67,1) 100%);
+    width: 100vw;
+  }
+}
+
+@include media-breakpoint-down(md){
+  .hero {
+    background-position: 20% bottom;
+    height: 600px;
+  }
+}
+
+
+// Menu
+
+#menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  height: 100%;
+  width: 100%;
+  display: none;
+}
+
+#closeMenu {
+  width: 58px; // set same width as the hamburger button
+}
+
+.no-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
+
+
+// Colors
+
+$color-circle-size: 65px;
+
+.color-cirlce {
+  height: $color-circle-size;
+  width: $color-circle-size;
+  border-radius: 50%;
+}
+
+// Misc
+
+.cursor-default {
+  cursor: default !important;
+}
+
+.mobile-icon > svg {
+  height: 18px;
+  width: 18px;
+  margin-bottom: 5px;
+}

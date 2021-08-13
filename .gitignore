@@ -1,0 +1,13 @@
+# Local env
+.DS_Store
+**/*.swp
+**/*.swap
+
+# NodeJS
+node_modules
+
+# Auto generated files
+dist/
+dist-lang/
+app/static/css/style.css
+README.html
