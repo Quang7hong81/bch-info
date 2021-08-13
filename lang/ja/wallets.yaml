@@ -1,0 +1,15 @@
+---
+title: ウォレット
+sub: ウォレットでBitcoin Cashを振込、預入、貯金する
+mobile:
+  title: モバイルウォレット
+  sub: 誰にでも簡単に安心して使えます
+desktop:
+  title: デスクトップウォレット
+  sub: コンピュータ用のより高度なウォレット
+hardware:
+  title: ハードウェアウォレット
+  sub: より安全に
+paper:
+  title: ペーパーウォレット
+  sub: ギフトなどに最適

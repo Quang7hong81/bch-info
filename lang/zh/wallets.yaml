@@ -1,0 +1,15 @@
+---
+title: 钱包
+sub: 用钱包来收取，发出，以及储存Bitcoin Cash
+mobile:
+  title: 移动端钱包
+  sub: 易于使用并且满足大多数场景的安全性需求
+desktop:
+  title: 桌面版钱包
+  sub: 在个人电脑上运行更加专业的钱包软件
+hardware:
+  title: 硬件钱包
+  sub: 为安全而生
+paper:
+  title: 纸上钱包
+  sub: 作为礼物的理想选择
